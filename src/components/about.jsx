@@ -13,8 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a student from Le Quy Don Technical University with IT as my major. I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years .</p>
-                    <p>I love learning foreign languages ( such as English , Japanese ) and thier cultures .</p>
+                    <p>I am a student from Le Quy Don Technical University with IT as my major. I love exploring new technologies and often amazed by the progress we as a human species have made so far in the recent years .</p>
+                    <p>I love learning foreign languages ( such as English , Japanese ) and their cultures .</p>
                     </div>
                 </div>
                 </div>
@@ -52,8 +52,8 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>BackEnd Programing</h3>
                     <p>
-                        I have experience in working and making APIs (.NET) , using node Express server and using database management systems : Microsoft SQL server ,
-                        mySQL . 
+                        I have experience in working and making APIs (.NET, node) , using node Express server and using database management systems : Microsoft SQL server ,
+                        mySQL , mongodb . 
                     </p>
                 </div>
                 </div>
