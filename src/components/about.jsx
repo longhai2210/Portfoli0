@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,Angular,HTML,CSS (Bootstrap , SASS) and using outer libraries 
+                    <p>I have experience building websites using JavaScript, ReactJs (with Hooks, Redux, MobX),Angular,HTML,CSS (Bootstrap, SASS) and using outer libraries 
                         to optimize them with less efforts .
                     </p>
                 </div>
@@ -52,8 +52,8 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>BackEnd Programing</h3>
                     <p>
-                        I have experience in working and making APIs (.NET, node) , using node Express server and using database management systems : Microsoft SQL server ,
-                        mySQL , mongodb . 
+                        I have experience in working and making APIs (.NET, Express) , using node Express server and using database management systems : Microsoft SQL server,
+                        mySQL, mongodb . 
                     </p>
                 </div>
                 </div>
@@ -65,7 +65,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I have basic understandings of Cloud system , using virtual machines and storing data on Amazon Web Service (AWS) servers .</p>
+                    <p>I have basic understandings of Cloud system, using virtual machines and storing data on Amazon Web Service (AWS) servers .</p>
                 </div>
                 </div>
             </div>

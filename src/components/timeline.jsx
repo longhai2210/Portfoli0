@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Front-end Dev (React Js) at QuantEdge JSC<span> August 2019- December 2019</span></h2>
                         <p>
-                          I joined the FE team , my main job was to take and render datas from APIs , make responsive user interface , 
+                          I joined the Front-End team , my main job was to take and render datas from APIs , make responsive user interface , 
                           working with testers to fix bugs , fix bugs that was left on Jira after each sprint .
                         </p>
                       </div>
