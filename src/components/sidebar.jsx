@@ -30,6 +30,9 @@ export default class Sidebar extends Component {
                 <li><a href="https://github.com/longhai2210" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
+            <div className="text-center">
+              <span className="email">Made with ReactJs and Bootstrap</span>
+            </div>
           </aside>
         </div>
       </div>
