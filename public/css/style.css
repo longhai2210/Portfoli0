@@ -450,7 +450,9 @@ body.offcanvas {
     letter-spacing: 1px;
     bordeR: 1px solid #000;
     padding: 2px 10px; }
-
+.blue-text {
+  background-color: #2c98f0 !important;
+} 
 .fancy-collapse-panel .panel-default > .panel-heading {
   padding: 0; }
 
