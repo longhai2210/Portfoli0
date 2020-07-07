@@ -12,6 +12,7 @@ export default class Sidebar extends Component {
               <h1 id="colorlib-logo"><a href="index.html">Phí Long Hải</a></h1>
               <span className="email"><i className="icon-mail"></i> longhai2210@gmail.com</span>
             </div>
+            <br />
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
                 <ul>
